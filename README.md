@@ -1,2 +1,2 @@
-# Company.Online.Word
+# Company.Online
 Manager
